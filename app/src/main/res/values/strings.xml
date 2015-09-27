@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doge Watch</string>
+
+    <string name="value_filler">Reading Value ...</string>
+    <string-array name="currency_values">
+        <item>USD</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+</resources>
